@@ -48,7 +48,7 @@ Open your browser and navigate to `http://localhost:3000`. Voilà, your portfoli
 
 Deploy directly to Vercel in just one click!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fkartikmanimuthu%2Fnextra-portfolio-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/kartikmanimuthu/nextra-portfolio-starter)
 
 ## 🤝 Contributing
 
