@@ -11,7 +11,7 @@ A versatile and modern portfolio starter powered by Nextra, tailored for profess
 
 ## 🌍 Live Demo
 
-Experience the Nextra Portfolio Starter in action: [Live Demo](https://your-demo-link.com)
+Experience the Nextra Portfolio Starter in action: [Live Demo](https://nextra-portfolio-starter.vercel.app)
 
 ## ⚙️ Tech Stack
 
